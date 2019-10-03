@@ -8,7 +8,7 @@ module.exports = {
   update,
   remove,
 };
-
+//
 function get() {
   return db('users');
 }
